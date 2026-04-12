@@ -4,7 +4,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 I architect and operate **large-scale, distributed, customer-facing systems** with a strong focus on:
 
