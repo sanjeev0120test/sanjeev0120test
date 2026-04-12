@@ -1,6 +1,6 @@
 # Sanjeev Mishra
 
-**Staff Engineer | Automation • SRE • AI Systems**
+**Staff Engineer | Automation • Site Reliability Engineering • AI Systems**
 
 ---
 
