@@ -6,7 +6,7 @@
 
 ## About Me
 
-I architect and operate **large-scale, distributed, customer-facing systems** with a strong focus on:
+I design and scale **large-scale, distributed, customer-facing systems** with a strong focus on:
 
 - ⚡ Reliability Engineering (SLO driven systems)
 - 📊 Deep Observability (metrics, logs, traces)
