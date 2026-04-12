@@ -180,4 +180,6 @@ Monitoring Strategy
 
 📧 sanjeev901115@gmail.com  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjeev%20Mishra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanjeev0120)
+
 ---
