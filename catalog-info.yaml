@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sanjeev0120test
+  description: Platform component
+  annotations:
+    github.com/project-slug: sanjeev0120test/sanjeev0120test
+spec:
+  type: service
+  lifecycle: production
+  owner: sanjeev0120test
